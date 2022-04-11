@@ -1,9 +1,9 @@
 # Bike Sharing
-##Overview of Analysis
-###Purpose
+## Overview of Analysis
+### Purpose
 The purpose of this project was to create graphical visualizations from the Citi Bike August 2019 dataset to draw several conclusions significant to potential investors.
 [Link to Tableau Story](https://public.tableau.com/app/profile/myra.jacobs/viz/CityBikeSharing_16496405668640/CityBikeSharing?publish=yes)
-###Background
+### Background
 This analysis uses Tableau to craft engaging and interactive charts Katie can use during presentations to potential investors in a business venture looking to expand bike sharing in Des Moines, Iowa..
 
 ## Results
